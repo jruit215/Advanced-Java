@@ -17,7 +17,7 @@ B.  Modify the Landon Hotel scheduling application for localization and internat
 1.   Install the Landon Hotel scheduling application in your integrated development environment (IDE). Modify the Java classes of application to display a welcome message by doing the following:
 a.  Build resource bundles for both English and French (languages required by Canadian law). Include a welcome message in the language resource bundles.
 b.  Display the welcome message in both English and French by applying the resource bundles using a different thread for each language.
-2.  Modify the front end to display the price for a reservation in currency rates for U.S. dollars ($), Canadian dollars (C$), and euros (€) on different lines.
+2.  Modify the front end to display the price for a reservation in currency rates for U.S. dollars, Canadian dollars, and euros on different lines.
 Note: It is not necessary to convert the values of the prices.
 3.  Display the time for an online live presentation held at the Landon Hotel by doing the following:
 a.  Write a Java method to convert times between eastern time (ET), mountain time (MT), and coordinated universal time (UTC) zones.
